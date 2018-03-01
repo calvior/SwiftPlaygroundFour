@@ -25,3 +25,15 @@ while i <= 10
 }
 
 //Coding Challenge #1
+var i = 1
+while i <= 3
+{
+    i = i + 1
+}
+
+//Coding Challenge #3
+newSum = 10
+for newSum in 1...10
+{
+    print(newSum - 1)
+}
