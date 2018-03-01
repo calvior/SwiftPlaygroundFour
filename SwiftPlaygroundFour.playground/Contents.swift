@@ -24,3 +24,4 @@ while i <= 10
     //we want to add +1 to i for each iteration through the loop i=i+1
 }
 
+//Coding Challenge #1
